@@ -25,7 +25,7 @@ Anyone related to technology who is looking to contribute to open-source is all 
 
 When raising an issue, do make sure to mention the kind of script, project title, short description of the project and how would you expect it to work. As a good practice, always link the issue number with pull request. (#issue number : Give this details when you raise a PR).
 
-If you worked on or want to initiate a unique project and share it with the world, you can do that here. Go through the contributing guidelines in CONTRIBUTING
+If you worked on or want to initiate a unique project and share it with the world, you can do that here. Go through the contributing guidelines in [CONTRIBUTING](https://github.com/a-tharva/Weird-codes/blob/master/CONTRIBUTING.md).
 
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
