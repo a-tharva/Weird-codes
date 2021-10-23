@@ -86,7 +86,7 @@ We want your work to be readable by others; therefore, we encourage you to note 
 
 ### Pull Requests Review Criteria
 
-1. Please fill the **PR Template** properly while making a Pull Request.
+1. Please fill the **[PR Template](https://github.com/a-tharva/Weird-codes/blob/master/.github/pullrequest_template.md)** properly while making a Pull Request.
 2. You must add your code file into the respective **folders**.
 3. Your work must be original, written by you not copied from other resources.
 4. You must comment on your code where necessary.
