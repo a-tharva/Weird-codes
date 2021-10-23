@@ -78,7 +78,7 @@ The project repository you had created would have :
 
 <h2>Code Of Conduct</h2>
 
-You can find our Code of Conduct [here](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/CODE_OF_CONDUCT.md).
+You can find our Code of Conduct [here](https://github.com/a-tharva/Weird-codes/blob/master/CODE_OF_CONDUCT.md).
 
 
 <h2>License</h2>  
