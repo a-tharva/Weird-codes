@@ -41,7 +41,7 @@ Create a folder of your project title.
 
 The project repository you had created would have :
 
-**file_name.** - This python file is the project you have worked upon.
+**file_name.** - This file is the project you have worked upon.
 
 **README.md** - This file is must included to get good understanding of the project Elaborate it briefly about how it works using README.
 
