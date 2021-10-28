@@ -14,7 +14,7 @@
 
 <h2>Repository</h2>
 
-A Curated Collection of **Weird codes** Scripts that will make you question why.
+A Curated Collection of **Weird code** Scripts that will make you question why.
 
 Submit your weirdest codes which perform simple task in a compilcated way.
 
